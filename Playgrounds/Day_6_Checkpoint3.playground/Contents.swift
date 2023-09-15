@@ -1,5 +1,7 @@
 import Cocoa
 
+// https://www.hackingwithswift.com/quick-start/beginners/checkpoint-3
+
 var numbers = [Int]()
 
 // Fill array with numbers from 1 to 100

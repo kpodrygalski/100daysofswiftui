@@ -20,3 +20,6 @@ Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka S
 | 7     | Funkcje 1 (Functions)                                                                 | [Playgrounds/Day_7_Functions](Playgrounds/Day_7_Functions.playground/Contents.swift)                                                    |
 | 8     | Funkcje 2 (Functions_2)                                                                 | [Playgrounds/Day_8_Functions](Playgrounds/Day_8_Functions_2.playground/Contents.swift)                                                    |
 | 8     | Punkt kontrolny 4 (Checkpoint 4)                                                                 | [Playgrounds/Day_8_Checkpoint4](Playgrounds/Day_8_Checkpoint4.playground/Contents.swift)                                                    |
+| 9     | Domknięcia (Closures)                                                                 | [Playgrounds/Day_9_Closures](Playgrounds/Day_9_Closures.playground/Contents.swift)                                                    |
+| 9     | Punkt kontrolny 5 (Checkpoint 5)                                                                 | [Playgrounds/Day_9_Checkpoint5](Playgrounds/Day_9_Checkpoint5.playground/Contents.swift)                                                    |
+

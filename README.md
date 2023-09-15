@@ -4,7 +4,7 @@ _Data rozpoczęcia kursu: **07.09.2023**_
 
 ### O mnie
 
-Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka SwiftUI, co pozwala mi eksperymentować z tworzeniem aplikacji mobilnych dla urządzeń z systemem iOS/OS X.
+Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka SwiftUI, co pozwala mi eksperymentować z tworzeniem aplikacji mobilnych dla urządzeń z systemem iOS/macOS.
 
 | Dzień | Opis                                                                          | Projekt                                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,4 +22,4 @@ Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka S
 | 8     | Punkt kontrolny 4 (Checkpoint 4)                                                                 | [Playgrounds/Day_8_Checkpoint4](Playgrounds/Day_8_Checkpoint4.playground/Contents.swift)                                                    |
 | 9     | Domknięcia (Closures)                                                                 | [Playgrounds/Day_9_Closures](Playgrounds/Day_9_Closures.playground/Contents.swift)                                                    |
 | 9     | Punkt kontrolny 5 (Checkpoint 5)                                                                 | [Playgrounds/Day_9_Checkpoint5](Playgrounds/Day_9_Checkpoint5.playground/Contents.swift)                                                    |
-
+| 10     | Struktury (Structs)                                                                 | [Playgrounds/Day_10_Structs](Playgrounds/Day_10_Structs.playground/Contents.swift)                                                    |

@@ -32,3 +32,5 @@ Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka S
 | 14     | Dane opcjonalne (Optionals)                                                                 | [Playgrounds/Day_14_Optionals](Playgrounds/Day_14_Optionals.playground/Contents.swift)                                                    |
 | 14     | Punkt kontrolny 9 (Checkpoint 9)                                                                 | [Playgrounds/Day_14_Checkpoint9](Playgrounds/Day_14_Checkpoint9.playground/Contents.swift)                                                    |
 | 15     | Podsumowanie Swift (Swift Review)                                                                  | [Playgrounds/Day_15_Essential_Swift](Playgrounds/Day_15_Essential_Swift.playground/Contents.swift)                                                    |
+| 16     | WeSplit cz. 1                                  | [SwiftUI/Day_16_WeSplit](SwiftUI/Day_16_WeSplit/Day_16_WeSplit/ContentView.swift) |
+| 17     | WeSplit cz. 2                                  | [SwiftUI/Day_16_WeSplit](SwiftUI/Day_16_WeSplit/Day_16_WeSplit/ContentView.swift) |

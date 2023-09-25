@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C0E2DA72AC15A1D00454499 /* TipPercentageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C0E2DA62AC15A1D00454499 /* TipPercentageView.swift */; };
 		6C5070742ABD871400DFF2AC /* Day_16_WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5070732ABD871400DFF2AC /* Day_16_WeSplitApp.swift */; };
 		6C5070762ABD871400DFF2AC /* ExampleContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5070752ABD871400DFF2AC /* ExampleContentView.swift */; };
 		6C5070782ABD871500DFF2AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5070772ABD871500DFF2AC /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C0E2DA62AC15A1D00454499 /* TipPercentageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipPercentageView.swift; sourceTree = "<group>"; };
 		6C5070702ABD871400DFF2AC /* Day_16_WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day_16_WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C5070732ABD871400DFF2AC /* Day_16_WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day_16_WeSplitApp.swift; sourceTree = "<group>"; };
 		6C5070752ABD871400DFF2AC /* ExampleContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				6CCBDE022ABDC08C00CE16FB /* ContentView.swift */,
 				6C5070752ABD871400DFF2AC /* ExampleContentView.swift */,
+				6C0E2DA62AC15A1D00454499 /* TipPercentageView.swift */,
 				6C5070732ABD871400DFF2AC /* Day_16_WeSplitApp.swift */,
 				6C5070772ABD871500DFF2AC /* Assets.xcassets */,
 				6C5070792ABD871500DFF2AC /* Preview Content */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C0E2DA72AC15A1D00454499 /* TipPercentageView.swift in Sources */,
 				6C5070762ABD871400DFF2AC /* ExampleContentView.swift in Sources */,
 				6C5070742ABD871400DFF2AC /* Day_16_WeSplitApp.swift in Sources */,
 				6CCBDE032ABDC08C00CE16FB /* ContentView.swift in Sources */,

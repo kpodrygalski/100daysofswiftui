@@ -36,3 +36,4 @@ Poza pracą zawodową, prywatnie jestem entuzjastą języka Swift i frameworka S
 | 17     | WeSplit cz. 2                                  | [SwiftUI/Day_16_WeSplit](SwiftUI/Day_16_WeSplit/Day_16_WeSplit/ContentView.swift) |
 | 18     | WeSplit cz. 3                                  | [SwiftUI/Day_16_WeSplit](SwiftUI/Day_16_WeSplit/Day_16_WeSplit/ContentView.swift) |
 | 19     | Wyzwanie 1 (Challenge day)                                  | [SwiftUI/Day_19_Challenge1](SwiftUI/Day_19_Challenge1/Day_19_Challenge1/ContentView.swift) |
+| 20     | GuessTheFlag cz.1                                  | [SwiftUI/Day_20_GuessTheFlag](SwiftUI/Day_20_GuessTheFlag/Day_20_GuessTheFlag/ContentView.swift) |

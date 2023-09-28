@@ -5,6 +5,10 @@
 //  Created by Konrad Podrygalski on 22/09/2023.
 //
 
+// https://www.hackingwithswift.com/100/swiftui/16
+// https://www.hackingwithswift.com/100/swiftui/17
+// https://www.hackingwithswift.com/100/swiftui/18
+
 import SwiftUI
 
 struct ContentView: View {

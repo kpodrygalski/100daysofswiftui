@@ -8,6 +8,7 @@
 // https://www.hackingwithswift.com/100/swiftui/16
 // https://www.hackingwithswift.com/100/swiftui/17
 // https://www.hackingwithswift.com/100/swiftui/18
+// https://www.hackingwithswift.com/100/swiftui/24
 
 import SwiftUI
 
@@ -84,6 +85,7 @@ struct ContentView: View {
                 Section {
                     Text(totalAmountForCheck,
                          format: .currency(code: Locale.current.currency?.identifier ?? "PLN"))
+                    .foregroundStyle(tipPercentage == 0 ? .red : .black)
                 } header: {
                     Text("Total amount for check")
                 }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C996BEC2AC99CB40046D3EB /* FlagImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C996BEB2AC99CB40046D3EB /* FlagImage.swift */; };
 		6CCD1D9E2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCD1D9D2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift */; };
 		6CCD1DA02AC41339003D7F95 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CCD1D9F2AC41339003D7F95 /* ContentView.swift */; };
 		6CCD1DA22AC4133A003D7F95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CCD1DA12AC4133A003D7F95 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C996BEB2AC99CB40046D3EB /* FlagImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagImage.swift; sourceTree = "<group>"; };
 		6CCD1D9A2AC41339003D7F95 /* Day_20_GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day_20_GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CCD1D9D2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day_20_GuessTheFlagApp.swift; sourceTree = "<group>"; };
 		6CCD1D9F2AC41339003D7F95 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,8 +53,9 @@
 		6CCD1D9C2AC41339003D7F95 /* Day_20_GuessTheFlag */ = {
 			isa = PBXGroup;
 			children = (
-				6CCD1D9D2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift */,
+				6C996BEB2AC99CB40046D3EB /* FlagImage.swift */,
 				6CCD1D9F2AC41339003D7F95 /* ContentView.swift */,
+				6CCD1D9D2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift */,
 				6CCD1DA12AC4133A003D7F95 /* Assets.xcassets */,
 				6CCD1DA32AC4133A003D7F95 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6CCD1DA02AC41339003D7F95 /* ContentView.swift in Sources */,
+				6C996BEC2AC99CB40046D3EB /* FlagImage.swift in Sources */,
 				6CCD1D9E2AC41339003D7F95 /* Day_20_GuessTheFlagApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

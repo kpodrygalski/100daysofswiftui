@@ -8,8 +8,24 @@
 // https://www.hackingwithswift.com/100/swiftui/20
 // https://www.hackingwithswift.com/100/swiftui/21
 // https://www.hackingwithswift.com/100/swiftui/22
+// https://www.hackingwithswift.com/100/swiftui/24 
 
 import SwiftUI
+
+struct ProminentTitleModifier: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .font(.largeTitle)
+            .foregroundStyle(.blue)
+            
+    }
+}
+
+extension View {
+    func prominentTitleStyle() -> some View {
+        modifier(ProminentTitleModifier())
+    }
+}
 
 struct ContentView: View {
     @State private var showScoreAlert: Bool = false
@@ -36,7 +52,7 @@ struct ContentView: View {
                 
                 Text("Guess the Flag")
                     .font(.largeTitle.bold())
-                    .foregroundStyle(.teal)
+                    .prominentTitleStyle()
                 
                 VStack(spacing: 15) {
                     VStack {
@@ -45,16 +61,18 @@ struct ContentView: View {
                             .font(.subheadline.weight(.heavy))
                         Text(countries[correctAnswer])
                             .font(.largeTitle.weight(.semibold))
+                            .prominentTitleStyle()
                     }
                     
                     ForEach(0..<3) { number in
                         Button {
                             flagTapped(number)
                         } label: {
-                            Image(countries[number])
-                                .renderingMode(.original)
-                                .clipShape(.buttonBorder)
-                                .shadow(radius: 5)
+                            FlagImage(imageName: countries[number])
+//                            Image(countries[number])
+//                                .renderingMode(.original)
+//                                .clipShape(.buttonBorder)
+//                                .shadow(radius: 5)
                         }
                     }
                 }

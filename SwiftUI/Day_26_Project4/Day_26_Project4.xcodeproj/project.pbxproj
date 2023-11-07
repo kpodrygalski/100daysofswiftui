@@ -11,6 +11,7 @@
 		6C23E2612AF95060008908EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C23E2602AF95060008908EE /* ContentView.swift */; };
 		6C23E2632AF95060008908EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C23E2622AF95060008908EE /* Assets.xcassets */; };
 		6C23E2662AF95060008908EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C23E2652AF95060008908EE /* Preview Assets.xcassets */; };
+		6C8F18AA2AFA745600147E37 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6C8F18A92AFA745600147E37 /* SleepCalculator.mlmodel */; };
 		6C92D4182AF950E3001A9D63 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C92D4172AF950E3001A9D63 /* StepperView.swift */; };
 		6C92D41A2AF9510A001A9D63 /* DateTimePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C92D4192AF9510A001A9D63 /* DateTimePickerView.swift */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		6C23E2602AF95060008908EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6C23E2622AF95060008908EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C23E2652AF95060008908EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6C8F18A92AFA745600147E37 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = SOURCE_ROOT; };
 		6C92D4172AF950E3001A9D63 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
 		6C92D4192AF9510A001A9D63 /* DateTimePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTimePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,6 +57,7 @@
 		6C23E25D2AF95060008908EE /* Day_26_Project4 */ = {
 			isa = PBXGroup;
 			children = (
+				6C8F18A92AFA745600147E37 /* SleepCalculator.mlmodel */,
 				6C23E25E2AF95060008908EE /* Day_26_Project4App.swift */,
 				6C92D4172AF950E3001A9D63 /* StepperView.swift */,
 				6C92D4192AF9510A001A9D63 /* DateTimePickerView.swift */,
@@ -146,6 +149,7 @@
 				6C23E2612AF95060008908EE /* ContentView.swift in Sources */,
 				6C92D41A2AF9510A001A9D63 /* DateTimePickerView.swift in Sources */,
 				6C92D4182AF950E3001A9D63 /* StepperView.swift in Sources */,
+				6C8F18AA2AFA745600147E37 /* SleepCalculator.mlmodel in Sources */,
 				6C23E25F2AF95060008908EE /* Day_26_Project4App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

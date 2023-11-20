@@ -11,8 +11,8 @@ import SwiftUI
 struct Day_29_Project5App: App {
     var body: some Scene {
         WindowGroup {
-            ListTestView()
-//            ContentView()
+//            ListTestView()
+            ContentView()
         }
     }
 }

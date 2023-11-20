@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C19143E2B0BA88C00A951B5 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6C19143D2B0BA88C00A951B5 /* start.txt */; };
 		6CA200852B0A75B8001E69A3 /* Day_29_Project5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA200842B0A75B8001E69A3 /* Day_29_Project5App.swift */; };
 		6CA200872B0A75B8001E69A3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA200862B0A75B8001E69A3 /* ContentView.swift */; };
 		6CA200892B0A75B9001E69A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CA200882B0A75B9001E69A3 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C19143D2B0BA88C00A951B5 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		6CA200812B0A75B8001E69A3 /* Day_29_Project5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day_29_Project5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA200842B0A75B8001E69A3 /* Day_29_Project5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day_29_Project5App.swift; sourceTree = "<group>"; };
 		6CA200862B0A75B8001E69A3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				6CA200842B0A75B8001E69A3 /* Day_29_Project5App.swift */,
 				6CA200922B0A784D001E69A3 /* ListTestView.swift */,
 				6CA200862B0A75B8001E69A3 /* ContentView.swift */,
+				6C19143D2B0BA88C00A951B5 /* start.txt */,
 				6CA200882B0A75B9001E69A3 /* Assets.xcassets */,
 				6CA2008A2B0A75B9001E69A3 /* Preview Content */,
 			);
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6CA2008C2B0A75B9001E69A3 /* Preview Assets.xcassets in Resources */,
+				6C19143E2B0BA88C00A951B5 /* start.txt in Resources */,
 				6CA200892B0A75B9001E69A3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
